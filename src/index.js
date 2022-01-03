@@ -80,7 +80,7 @@ client.on('messageCreate', message => {
                         {name: 'balance', value: res.balance, inline: true},
                         {name: 'Skill Level', value: res.skill_level, inline: true},
                         {name: 'Rob Level', value: res.rob_level, inline: true},
-                        {name: 'Own a House', value: res.ownhouse, inline: true},
+                        {name: 'House', value: res.house, inline: true},
                     )
                 
                 sendEmbed(message, embed)
