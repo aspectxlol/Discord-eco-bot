@@ -1,0 +1,41 @@
+{
+    "lands": {
+        "APARTMENT":{
+            "id": 0,
+            "name": "apartment",
+            "price": 20
+        },
+        "BOX_HOUSE":{
+            "id": 1,
+            "name": "Box House",
+            "price": 30
+        },
+        "HOUSE":{
+            "id": 2,
+            "name": "House",
+            "price": 50
+        },
+        "MANSION":{
+            "id": 3,
+            "name": "Mansion",
+            "price": 1000
+        }
+    },
+    "equipment": {
+        "GUN":{
+            "id": 4,
+            "name": "gun",
+            "price": 10
+        },
+        "CROWBAR":{
+            "id": 5,
+            "name": "crowbar",
+            "price": 5
+        },
+        "WRENCH":{
+            "id": 6,
+            "name": "wrench",
+            "price": 2
+        }
+    }
+}
